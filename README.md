@@ -1,8 +1,11 @@
 He cambiado en los siguientes aspectos:
 <br>
 -Fondo.
+<br>
 -imagen luna.
+<br>
 -imagenes : velocidad,fuel,altura,restart,información,pausa,play.
+<br>
 -imagenes : ganar y perder.
 
 He mantenido estas imagenes:<br>

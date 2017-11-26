@@ -5,7 +5,7 @@ body{background:url(img/fondo.jpg) no-repeat center center fixed;background-size
 #menu{padding: 1%;color:white;vertical-align: middle;}
 #menu ul li{display:inline-block;vertical-align: middle;text-align: center;}
 #menu img{padding-right: 2%;width:20%;}
-#hidem,#parametros{display:none;}
+#parametros{display:none;}
 
 
 #luna{height:15%;width:60%;position:fixed;left:20%;bottom:0%;}

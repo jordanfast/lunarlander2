@@ -1,4 +1,5 @@
 He cambiado en los siguientes aspectos:
+<br>
 -Fondo.
 -imagen luna.
 -imagenes : velocidad,fuel,altura,restart,información,pausa,play.

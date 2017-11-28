@@ -1,4 +1,4 @@
-body{background:url(img/fondo.jpg) no-repeat center center fixed;background-size:cover;}
+body{background:url(../img/fondo.jpg) no-repeat center center fixed;background-size:cover;}
 .a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
 .d{height:20%;width:100%;position:fixed;bottom:0px;}
 #cohete1{display:inline-block;right:45%;position:fixed;top:5%;height:20%;z-index:1;}

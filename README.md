@@ -5,9 +5,7 @@ He cambiado en los siguientes aspectos:
 <br>
 -imagen luna.
 <br>
--imagenes : velocidad,fuel,altura,restart,información,pausa,play.
-<br>
--imagenes : ganar y perder.
+-imagenes : velocidad,fuel,altura,restart,información,pausa,play,ganar,perder,explosion..
 
 He mantenido estas imagenes:<br>
 -Cohete.
